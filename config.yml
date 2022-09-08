@@ -77,6 +77,7 @@ homebrew_installed_packages:
   - libevent
   - macos-trash
   - mcrypt
+  - ncdu
   - neovim
   - nmap
   - node
@@ -85,6 +86,7 @@ homebrew_installed_packages:
   - pyenv
   - pyenv
   - pyenv-virtualenv
+  - qmk/qmk/qmk
   - readline
   - ripgrep
   - sbt
@@ -119,8 +121,6 @@ homebrew_cask_apps:
   - dbeaver-community
   - discord
   - docker
-  - dropbox
-  - flycut
   - google-chrome
   - imageoptim
   - intellij-idea
@@ -132,11 +132,11 @@ homebrew_cask_apps:
   - keycastr
   - kindle
   - licecap
+  - maccy
   - mpv
   - notion
   - postman
   - qmk-toolbox
-  - slack
   - slack
   - spotify
   - the-unarchiver
