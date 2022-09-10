@@ -135,6 +135,7 @@ homebrew_cask_apps:
   - maccy
   - mpv
   - notion
+  - oktadeveloper/tap/okta
   - postman
   - qmk-toolbox
   - slack
