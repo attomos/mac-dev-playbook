@@ -79,6 +79,7 @@ homebrew_installed_packages:
   - mcrypt
   - ncdu
   - neovim
+  - nginx
   - nmap
   - node
   - openssl
@@ -88,6 +89,7 @@ homebrew_installed_packages:
   - pyenv-virtualenv
   - qmk/qmk/qmk
   - readline
+  - reattach-to-user-namespace
   - ripgrep
   - sbt
   - scala
@@ -97,6 +99,7 @@ homebrew_installed_packages:
   - stern
   - stormssh
   - stow
+  - telnet
   - tldr
   - tmux
   - watchman
