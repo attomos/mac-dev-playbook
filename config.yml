@@ -58,6 +58,7 @@ sudoers_custom_config: ''
 homebrew_installed_packages:
   - aria2
   - autoconf
+  - bash
   - bat
   - corepack
   - cowsay
@@ -84,6 +85,7 @@ homebrew_installed_packages:
   - node
   - openssl
   - php
+  - postgresql@14
   - pyenv
   - pyenv
   - pyenv-virtualenv
