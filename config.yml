@@ -123,6 +123,7 @@ homebrew_cask_apps:
   - bartender
   - bettertouchtool
   - chromedriver
+  - datagrip
   - dbeaver-community
   - discord
   - docker
