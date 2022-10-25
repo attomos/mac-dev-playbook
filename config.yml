@@ -143,6 +143,7 @@ homebrew_cask_apps:
   - mpv
   - notion
   - oktadeveloper/tap/okta
+  - onedrive
   - postman
   - qmk-toolbox
   - slack
