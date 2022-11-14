@@ -22,20 +22,20 @@ dockitems_persist:
 - name: "iTerm"
   path: "/Applications/iTerm.app/"
   pos: 3
+- name: "DataGrip"
+  path: "/Applications/DataGrip.app/"
+  pos: 4
 - name: "Microsoft Outlook"
   path: "/Applications/Microsoft Outlook.app/"
-  pos: 4
+  pos: 5
 - name: "Slack"
   path: "/Applications/Slack.app/"
-  pos: 5
+  pos: 6
 - name: "Notion"
   path: "/Applications/Notion.app/"
-  pos: 6
+  pos: 7
 - name: "Spotify"
   path: "/Applications/Spotify.app/"
-  pos: 7
-- name: "DBeaver"
-  path: "/Applications/DBeaver.app/"
   pos: 8
 
 configure_sudoers: false
