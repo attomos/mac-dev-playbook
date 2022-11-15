@@ -73,6 +73,7 @@ homebrew_installed_packages:
   - git-extras
   - go
   - gpg
+  - htop
   - httpie
   - iperf
   - libevent
