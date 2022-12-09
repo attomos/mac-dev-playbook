@@ -61,9 +61,11 @@ homebrew_installed_packages:
   - bash
   - bat
   - btop
+  - chicken
   - clojure/tools/clojure
   - corepack
   - cowsay
+  - ctags
   - diff-so-fancy
   - doxygen
   - exa
@@ -75,6 +77,7 @@ homebrew_installed_packages:
   - git-extras
   - go
   - gpg
+  - guile
   - htop
   - httpie
   - hyperfine
@@ -87,6 +90,7 @@ homebrew_installed_packages:
   - neovim
   - nginx
   - nmap
+  - nnn
   - node
   - openssl
   - php
