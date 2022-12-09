@@ -60,6 +60,7 @@ homebrew_installed_packages:
   - autoconf
   - bash
   - bat
+  - btop
   - clojure/tools/clojure
   - corepack
   - cowsay
@@ -76,6 +77,7 @@ homebrew_installed_packages:
   - gpg
   - htop
   - httpie
+  - hyperfine
   - iperf
   - leiningen
   - libevent
