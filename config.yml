@@ -82,6 +82,7 @@ homebrew_installed_packages:
   - httpie
   - hyperfine
   - iperf
+  - just
   - leiningen
   - libevent
   - macos-trash
