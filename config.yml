@@ -117,6 +117,7 @@ homebrew_installed_packages:
   - wget
   - wget
   - z
+  - zellij
   - zsh
   - zsh-autosuggestions
 
