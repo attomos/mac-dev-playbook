@@ -69,6 +69,7 @@ homebrew_installed_packages:
   - deno
   - diff-so-fancy
   - doxygen
+  - efm-langserver
   - exa
   - fd
   - fzf
