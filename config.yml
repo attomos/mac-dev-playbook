@@ -67,7 +67,6 @@ homebrew_installed_packages:
   - cowsay
   - ctags
   - deno
-  - diff-so-fancy
   - doxygen
   - efm-langserver
   - exa
@@ -76,6 +75,7 @@ homebrew_installed_packages:
   - gettext
   - gifsicle
   - git
+  - git-delta
   - git-extras
   - go
   - gpg
@@ -116,6 +116,7 @@ homebrew_installed_packages:
   - telnet
   - tldr
   - tmux
+  - watchexec
   - watchman
   - wget
   - wget
