@@ -37,6 +37,9 @@ dockitems_persist:
 - name: "Spotify"
   path: "/Applications/Spotify.app/"
   pos: 8
+- name: "Logseq"
+  path: "/Applications/Logseq.app/"
+  pos: 9
 
 configure_sudoers: false
 sudoers_custom_config: ''
@@ -151,6 +154,7 @@ homebrew_cask_apps:
   - keepingyouawake
   - keycastr
   - kindle
+  - logseq
   - maccy
   - mpv
   - notion
