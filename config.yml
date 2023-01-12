@@ -154,6 +154,7 @@ homebrew_cask_apps:
   - keepingyouawake
   - keycastr
   - kindle
+  - kitty
   - logseq
   - maccy
   - mpv
