@@ -100,6 +100,7 @@ homebrew_installed_packages:
   - node
   - openssl
   - php
+  - pnpm
   - postgresql@14
   - pyenv
   - pyenv
@@ -125,6 +126,7 @@ homebrew_installed_packages:
   - wget
   - z
   - zellij
+  - zig
   - zsh
   - zsh-autosuggestions
 
@@ -169,6 +171,7 @@ homebrew_cask_apps:
   - via
   - vial
   - visual-studio-code
+  - warp
   - whichspace
 
 # See `geerlingguy.mas` role documentation for usage instructions.
