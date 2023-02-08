@@ -66,6 +66,7 @@ homebrew_installed_packages:
   - btop
   - chicken
   - clojure/tools/clojure
+  - colima
   - corepack
   - cowsay
   - ctags
@@ -87,6 +88,7 @@ homebrew_installed_packages:
   - httpie
   - hyperfine
   - iperf
+  - jq
   - just
   - leiningen
   - libevent
