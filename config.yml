@@ -161,6 +161,7 @@ homebrew_cask_apps:
   - kitty
   - logseq
   - maccy
+  - microsoft-edge
   - mpv
   - notion
   - oktadeveloper/tap/okta
