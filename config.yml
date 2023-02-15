@@ -82,6 +82,7 @@ homebrew_installed_packages:
   - git-delta
   - git-extras
   - go
+  - go-task
   - gpg
   - guile
   - htop
