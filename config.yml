@@ -95,6 +95,7 @@ homebrew_installed_packages:
   - libevent
   - macos-trash
   - mcrypt
+  - mkcert
   - ncdu
   - neovim
   - nginx
