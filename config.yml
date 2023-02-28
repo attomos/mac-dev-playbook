@@ -171,6 +171,7 @@ homebrew_cask_apps:
   - onedrive
   - postman
   - qmk-toolbox
+  - raycast
   - slack
   - spotify
   - the-unarchiver
