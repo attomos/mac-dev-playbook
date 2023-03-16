@@ -89,6 +89,7 @@ homebrew_installed_packages:
   - httpie
   - hyperfine
   - iperf
+  - jesseduffield/lazydocker/lazydocker
   - jq
   - just
   - leiningen
