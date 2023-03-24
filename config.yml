@@ -114,6 +114,7 @@ homebrew_installed_packages:
   - readline
   - reattach-to-user-namespace
   - ripgrep
+  - s3cmd
   - sbt
   - scala
   - sd
