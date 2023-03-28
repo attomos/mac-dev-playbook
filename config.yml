@@ -92,6 +92,7 @@ homebrew_installed_packages:
   - jesseduffield/lazydocker/lazydocker
   - jq
   - just
+  - kubectx
   - leiningen
   - libevent
   - macos-trash
@@ -103,6 +104,7 @@ homebrew_installed_packages:
   - nmap
   - nnn
   - node
+  - octant
   - openssl
   - php
   - pnpm
