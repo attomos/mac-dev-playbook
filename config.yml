@@ -66,6 +66,7 @@ homebrew_installed_packages:
   - bat
   - btop
   - chicken
+  - clang-format
   - clojure/tools/clojure
   - colima
   - corepack
@@ -76,6 +77,7 @@ homebrew_installed_packages:
   - efm-langserver
   - exa
   - fd
+  - freetds
   - fzf
   - gettext
   - gifsicle
@@ -86,6 +88,7 @@ homebrew_installed_packages:
   - go-task
   - gpg
   - guile
+  - hashicorp/tap/vault
   - htop
   - httpie
   - hyperfine
@@ -136,7 +139,6 @@ homebrew_installed_packages:
   - z
   - zellij
   - zig
-  - hashicorp/tap/vault
   - zsh
   - zsh-autosuggestions
 
@@ -176,6 +178,7 @@ homebrew_cask_apps:
   - obsidian
   - oktadeveloper/tap/okta
   - onedrive
+  - openlens
   - postman
   - qmk-toolbox
   - raycast
