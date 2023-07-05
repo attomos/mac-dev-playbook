@@ -85,6 +85,7 @@ homebrew_installed_packages:
   - git-delta
   - git-extras
   - go
+  - go-jsonnet
   - go-task
   - gpg
   - guile
@@ -185,6 +186,7 @@ homebrew_cask_apps:
   - slack
   - sloth
   - spotify
+  - tabby
   - the-unarchiver
   - via
   - vial
