@@ -137,6 +137,7 @@ homebrew_installed_packages:
   - watchman
   - wget
   - wget
+  - yq
   - yqrashawn/goku/goku
   - z
   - zellij
