@@ -112,6 +112,7 @@ homebrew_installed_packages:
   - octant
   - openssl
   - php
+  - pipx
   - pnpm
   - postgresql@14
   - pyenv
