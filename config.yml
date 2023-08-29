@@ -100,6 +100,7 @@ homebrew_installed_packages:
   - kubectx
   - leiningen
   - libevent
+  - libxmlsec1
   - macos-trash
   - mcrypt
   - mkcert
@@ -186,6 +187,7 @@ homebrew_cask_apps:
   - postman
   - qmk-toolbox
   - raycast
+  - shottr
   - slack
   - sloth
   - spotify
