@@ -76,6 +76,7 @@ homebrew_installed_packages:
   - doxygen
   - efm-langserver
   - exa
+  - eza
   - fd
   - freetds
   - fzf
