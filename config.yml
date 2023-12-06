@@ -104,6 +104,7 @@ homebrew_installed_packages:
   - libxmlsec1
   - macos-trash
   - mcrypt
+  - minikube
   - mkcert
   - ncdu
   - neovim
@@ -160,6 +161,7 @@ homebrew_cask_apps:
   - appcleaner
   - bartender
   - bettertouchtool
+  - bruno
   - chromedriver
   - datagrip
   - dbeaver-community
