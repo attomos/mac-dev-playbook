@@ -137,6 +137,7 @@ homebrew_installed_packages:
   - telnet
   - tldr
   - tmux
+  - unixodbc
   - watchexec
   - watchman
   - wget
@@ -149,11 +150,7 @@ homebrew_installed_packages:
   - zsh
   - zsh-autosuggestions
 
-homebrew_taps:
-  - homebrew/core
-  - homebrew/cask
-  - homebrew/cask-drivers
-  - hashicorp/tap
+homebrew_taps: []
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
