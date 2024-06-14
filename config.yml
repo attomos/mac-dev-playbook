@@ -83,6 +83,7 @@ homebrew_installed_packages:
   - gettext
   - gifsicle
   - git
+  - git-cliff
   - git-delta
   - git-extras
   - go
