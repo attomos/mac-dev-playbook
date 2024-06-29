@@ -94,6 +94,7 @@ homebrew_installed_packages:
   - hashicorp/tap/vault
   - htop
   - httpie
+  - httpstat
   - hyperfine
   - iperf
   - jesseduffield/lazydocker/lazydocker
