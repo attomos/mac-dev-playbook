@@ -86,6 +86,8 @@ homebrew_installed_packages:
   - git-cliff
   - git-delta
   - git-extras
+  - git-lfs
+  - gitoxide
   - gleam
   - go
   - go-jsonnet
@@ -116,6 +118,8 @@ homebrew_installed_packages:
   - nnn
   - node
   - octant
+  - oha
+  - opa
   - openssl
   - php
   - pipx
@@ -184,7 +188,6 @@ homebrew_cask_apps:
   - mpv
   - notion
   - obsidian
-  - oktadeveloper/tap/okta
   - onedrive
   - openlens
   - postman
