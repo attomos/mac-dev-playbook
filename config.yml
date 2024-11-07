@@ -108,6 +108,7 @@ homebrew_installed_packages:
   - libevent
   - libxmlsec1
   - macos-trash
+  - manojkarthick/tap/pqrs
   - mcrypt
   - minikube
   - mkcert
