@@ -122,9 +122,9 @@ homebrew_installed_packages:
   - oha
   - opa
   - openssl
+  - oxipng
   - php
   - pipx
-  - pnpm
   - postgresql@14
   - pyenv
   - pyenv
