@@ -75,6 +75,7 @@ homebrew_installed_packages:
   - deno
   - doxygen
   - efm-langserver
+  - espanso
   - exa
   - eza
   - fd
@@ -145,6 +146,7 @@ homebrew_installed_packages:
   - telnet
   - tldr
   - tmux
+  - typos-cli
   - unixodbc
   - watchexec
   - watchman
