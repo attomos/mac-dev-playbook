@@ -85,6 +85,7 @@ homebrew_installed_packages:
   - go-task
   - gpg
   - guile
+  - harper
   - hashicorp/tap/vault
   - htop
   - httpie
