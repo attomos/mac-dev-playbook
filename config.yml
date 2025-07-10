@@ -13,33 +13,24 @@ dockitems_remove:
 - Podcasts
 - 'App Store'
 dockitems_persist:
-- name: "Arc"
-  path: "/Applications/Arc.app/"
+- name: "Google Chrome"
+  path: "/Applications/Google Chrome.app/"
   pos: 1
-- name: "Visual Studio Code"
-  path: "/Applications/Visual Studio Code.app/"
+- name: "Cursor"
+  path: "/Applications/Cursor.app/"
   pos: 2
+- name: "Obsidian"
+  path: "/Applications/Obsidian.app/"
+  pos: 3
 - name: "iTerm"
   path: "/Applications/iTerm.app/"
-  pos: 3
+  pos: 4
 - name: "DataGrip"
   path: "/Applications/DataGrip.app/"
-  pos: 4
-- name: "Microsoft Outlook"
-  path: "/Applications/Microsoft Outlook.app/"
   pos: 5
 - name: "Slack"
   path: "/Applications/Slack.app/"
   pos: 6
-- name: "Notion"
-  path: "/Applications/Notion.app/"
-  pos: 7
-- name: "Spotify"
-  path: "/Applications/Spotify.app/"
-  pos: 8
-- name: "Obsidian"
-  path: "/Applications/Obsidian.app/"
-  pos: 9
 
 configure_sudoers: false
 sudoers_custom_config: ''
