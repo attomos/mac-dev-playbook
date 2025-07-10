@@ -76,7 +76,6 @@ homebrew_installed_packages:
   - doxygen
   - efm-langserver
   - espanso
-  - exa
   - eza
   - fd
   - freetds
@@ -110,7 +109,6 @@ homebrew_installed_packages:
   - libxmlsec1
   - macos-trash
   - manojkarthick/tap/pqrs
-  - mcrypt
   - minikube
   - mkcert
   - ncdu
@@ -119,17 +117,9 @@ homebrew_installed_packages:
   - nmap
   - nnn
   - node
-  - octant
   - oha
   - opa
   - openssl
-  - oxipng
-  - php
-  - pipx
-  - postgresql@14
-  - pyenv
-  - pyenv
-  - pyenv-virtualenv
   - qmk/qmk/qmk
   - readline
   - reattach-to-user-namespace
@@ -141,7 +131,6 @@ homebrew_installed_packages:
   - sqlite
   - ssh-copy-id
   - stern
-  - stormssh
   - stow
   - telnet
   - tldr
@@ -166,47 +155,27 @@ homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - 1password
   - appcleaner
-  - bartender
   - bettertouchtool
-  - bruno
   - chromedriver
   - datagrip
-  - dbeaver-community
   - discord
-  - docker
-  - google-chrome
   - imageoptim
   - intellij-idea
-  - iterm2
   - itsycal
   - kap
   - karabiner-elements
   - keepingyouawake
   - keycastr
-  - kindle
-  - kitty
-  - logseq
-  - maccy
-  - microsoft-edge
   - mpv
-  - notion
   - obsidian
-  - onedrive
-  - openlens
-  - postman
   - qmk-toolbox
   - raycast
   - shottr
-  - slack
   - sloth
   - spotify
-  - tabby
   - the-unarchiver
   - via
   - vial
-  - visual-studio-code
-  - warp
-  - whichspace
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
