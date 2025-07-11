@@ -28,9 +28,15 @@ dockitems_persist:
 - name: "DataGrip"
   path: "/Applications/DataGrip.app/"
   pos: 5
+- name: "IntelliJ IDEA"
+  path: "/Applications/IntelliJ IDEA.app/"
+  pos: 6
 - name: "Slack"
   path: "/Applications/Slack.app/"
-  pos: 6
+  pos: 7
+- name: "Spotify"
+  path: "/Applications/Spotify.app/"
+  pos: 8
 
 configure_sudoers: false
 sudoers_custom_config: ''
