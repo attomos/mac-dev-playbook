@@ -135,6 +135,7 @@ homebrew_installed_packages:
   - tmux
   - typos-cli
   - unixodbc
+  - uv
   - watchexec
   - watchman
   - wget
