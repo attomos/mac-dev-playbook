@@ -166,6 +166,7 @@ homebrew_cask_apps:
   - keycastr
   - mpv
   - obsidian
+  - ollama
   - qmk-toolbox
   - raycast
   - shottr
