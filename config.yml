@@ -146,6 +146,7 @@ homebrew_installed_packages:
   - zig
   - zsh
   - zsh-autosuggestions
+  - zsh-syntax-highlighting
 
 homebrew_taps: []
 
