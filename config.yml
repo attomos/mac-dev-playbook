@@ -71,6 +71,7 @@ homebrew_installed_packages:
   - ctags
   - deno
   - doxygen
+  - duckdb
   - efm-langserver
   - espanso
   - eza
