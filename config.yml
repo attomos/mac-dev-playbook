@@ -97,6 +97,7 @@ homebrew_installed_packages:
   - httpie
   - httpstat
   - hyperfine
+  - imageoptim-cli
   - iperf
   - jesseduffield/lazydocker/lazydocker
   - jq
