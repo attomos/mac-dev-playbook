@@ -59,6 +59,7 @@ homebrew_installed_packages:
   - aria2
   - asciinema
   - autoconf
+  - basedpyright
   - bash
   - bat
   - btop
@@ -107,6 +108,7 @@ homebrew_installed_packages:
   - leiningen
   - libevent
   - libxmlsec1
+  - lua-language-server
   - macos-trash
   - manojkarthick/tap/pqrs
   - minikube
