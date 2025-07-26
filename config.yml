@@ -134,6 +134,7 @@ homebrew_installed_packages:
   - ssh-copy-id
   - stern
   - stow
+  - stylua
   - telnet
   - tldr
   - tmux
