@@ -102,6 +102,7 @@ homebrew_installed_packages:
   - imageoptim-cli
   - iperf
   - jesseduffield/lazydocker/lazydocker
+  - jj
   - jq
   - just
   - kubectx
