@@ -133,6 +133,7 @@ homebrew_installed_packages:
   - sd
   - sqlite
   - ssh-copy-id
+  - sst/tap/opencode
   - stern
   - stow
   - stylua
@@ -183,6 +184,7 @@ homebrew_cask_apps:
   - the-unarchiver
   - via
   - vial
+  - warp
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
