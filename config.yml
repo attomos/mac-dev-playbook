@@ -95,6 +95,7 @@ homebrew_installed_packages:
   - guile
   - harper
   - hashicorp/tap/vault
+  - hexyl
   - htop
   - httpie
   - httpstat
