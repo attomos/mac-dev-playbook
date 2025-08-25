@@ -87,6 +87,7 @@ homebrew_installed_packages:
   - git-extras
   - git-lfs
   - gitoxide
+  - glab
   - gleam
   - go
   - go-jsonnet
