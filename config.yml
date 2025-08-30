@@ -71,6 +71,7 @@ homebrew_installed_packages:
   - cowsay
   - ctags
   - deno
+  - derailed/k9s/k9s
   - doxygen
   - duckdb
   - efm-langserver
