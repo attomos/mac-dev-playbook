@@ -58,6 +58,7 @@ sudoers_custom_config: ''
 homebrew_installed_packages:
   - aria2
   - asciinema
+  - ast-grep
   - autoconf
   - basedpyright
   - bash
