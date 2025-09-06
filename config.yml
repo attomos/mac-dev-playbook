@@ -115,6 +115,7 @@ homebrew_installed_packages:
   - lua-language-server
   - macos-trash
   - manojkarthick/tap/pqrs
+  - maven
   - minikube
   - mkcert
   - ncdu
