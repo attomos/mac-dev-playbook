@@ -112,6 +112,7 @@ homebrew_installed_packages:
   - kubectx
   - leiningen
   - libevent
+  - libpq
   - libxmlsec1
   - lua-language-server
   - macos-trash
@@ -138,7 +139,6 @@ homebrew_installed_packages:
   - sd
   - sqlite
   - ssh-copy-id
-  - sst/tap/opencode
   - stern
   - stow
   - stylua
@@ -181,7 +181,6 @@ homebrew_cask_apps:
   - keycastr
   - mpv
   - obsidian
-  - ollama
   - qmk-toolbox
   - raycast
   - shottr
@@ -191,6 +190,7 @@ homebrew_cask_apps:
   - via
   - vial
   - warp
+  - yaak
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
