@@ -143,6 +143,7 @@ homebrew_installed_packages:
   - stow
   - stylua
   - telnet
+  - thaw
   - tldr
   - tmux
   - typos-cli
@@ -154,9 +155,9 @@ homebrew_installed_packages:
   - wget
   - yq
   - yqrashawn/goku/goku
-  - z
   - zellij
   - zig
+  - zoxide
   - zsh
   - zsh-autosuggestions
   - zsh-syntax-highlighting
